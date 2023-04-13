@@ -1,2 +1,3 @@
 # QuadraticFunction
-This is a project with the objective of calculating a second-degree quadratic function, presenting its two values, calculating its vertices, and presenting a graph with the parabola.
+
+This project's goal is to compute a second-degree quadratic function, display its two values, determine its vertices, and display a parabola graph.
